@@ -1,7 +1,5 @@
 # Amazon-Project-2
-**All internal Amazon confidential information has been removed from the code. The code only contains publicly available information
-
-Summary: bags.py takes an excel file as an input, scrapes data from a website and exports 3 different data points in excel format.
+Summary: bags.py takes an excel file as an input, scrapes data from website and exports 3 different data points in excel format.
 
 Problem: Amazon delivery station has many different indepedent delivery companies. Each delivery company has 30+ drivers working to deliver Amazon packages. Drivers load their vans with bags full of packages in the morning & they return those bags in the evening. Most drivers do not follow the SOP (Standard Operating Procedure) of returning their bags. SOP involves laying the empty bags individually on the carts (loose leaf), instead of folding 8-10 bags inside 1 bag.
 
